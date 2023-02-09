@@ -1,0 +1,8 @@
+uvicorn
+fastapi
+databases
+sqlalchemy
+asyncpg
+psycopg2-binary
+alembic
+python-decouple

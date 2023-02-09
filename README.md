@@ -13,10 +13,10 @@ alembic init migration
 ```
 ### create mifration file
 ```bash
-alembic revision --autogenerate -m "message"  
+alembic revision --autogenerate -m "messagge"  
 ```
 
-### trow the migration
+### throw the migration
 ```bash
 alembic upgrade head    
 ```
